@@ -1,0 +1,12 @@
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\bin\Debug\net6.0\Bookish.Storage.deps.json
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\bin\Debug\net6.0\Bookish.Storage.dll
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\bin\Debug\net6.0\Bookish.Storage.pdb
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\obj\Debug\net6.0\Bookish.Storage.csproj.AssemblyReference.cache
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\obj\Debug\net6.0\Bookish.Storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\obj\Debug\net6.0\Bookish.Storage.AssemblyInfoInputs.cache
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\obj\Debug\net6.0\Bookish.Storage.AssemblyInfo.cs
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\obj\Debug\net6.0\Bookish.Storage.csproj.CoreCompileInputs.cache
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\obj\Debug\net6.0\Bookish.Storage.dll
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\obj\Debug\net6.0\refint\Bookish.Storage.dll
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\obj\Debug\net6.0\Bookish.Storage.pdb
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Storage\obj\Debug\net6.0\ref\Bookish.Storage.dll

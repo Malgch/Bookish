@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bookish.Backend.props" />
+</Project>

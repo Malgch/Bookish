@@ -1,0 +1,12 @@
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\bin\Debug\net6.0\Bookish.Core.deps.json
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\bin\Debug\net6.0\Bookish.Core.dll
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\bin\Debug\net6.0\Bookish.Core.pdb
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\obj\Debug\net6.0\Bookish.Core.csproj.AssemblyReference.cache
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\obj\Debug\net6.0\Bookish.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\obj\Debug\net6.0\Bookish.Core.AssemblyInfoInputs.cache
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\obj\Debug\net6.0\Bookish.Core.AssemblyInfo.cs
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\obj\Debug\net6.0\Bookish.Core.csproj.CoreCompileInputs.cache
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\obj\Debug\net6.0\Bookish.Core.dll
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\obj\Debug\net6.0\refint\Bookish.Core.dll
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\obj\Debug\net6.0\Bookish.Core.pdb
+D:\dokumenty\Studia_wsei\myprojects\Bookish\Bookish.Core\obj\Debug\net6.0\ref\Bookish.Core.dll

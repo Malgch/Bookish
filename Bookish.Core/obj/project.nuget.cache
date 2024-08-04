@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IAHsYiTvbJ/jaEREIkZrDJdmJ/dFdcqndSLtWpUjX7uiwZbHy+WW9wplvHmyzwT4RL25zSjQRcDEmXBbvvasxA==",
+  "success": true,
+  "projectFilePath": "D:\\dokumenty\\Studia_wsei\\myprojects\\Bookish\\Bookish.Core\\Bookish.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gosia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Gosia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
